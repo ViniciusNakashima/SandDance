@@ -70,6 +70,8 @@ docs/docs/**/assets
 # powerbi builds
 .tmp
 webpack.statistics.dev.html
+webpack.*.html
+*.pbiviz
 
 # local jekyll site
 _site
